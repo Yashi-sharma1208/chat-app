@@ -1,1 +1,1 @@
-View Live Project --> https://lets-chat-ejqt.onrender.com/chats
+View Live Project --> https://lets-chat-ejqt.onrender.com
